@@ -1,2 +1,3 @@
 # pi360
-A Raspberry Pi tool to mod your Xbox 360
+A tool for Raspberry Pi to RGH your Xbox 360.
+
